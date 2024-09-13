@@ -10,9 +10,9 @@
 
 2.1 - Progeklubi korraldus jäljendab olemasoleva GAGi mehhatroonikaklubi korraldust - eeskätt on progeklubis õpilased ja korraldajad.
 
-2.1.1 - Korraldaja on iga osaleja, kes vastutab progeklubi toimimise eest - koosolekute toimumine, õppimise ja omavahel koostöö sujumine, õpilaste aktiivne osalemise, ja muu eest.
+    2.1.1 - Korraldaja on iga osaleja, kes vastutab progeklubi toimimise eest - koosolekute toimumine, õppimise ja omavahel koostöö sujumine, õpilaste aktiivne osalemise, ja muu eest.
 
-2.1.2 - Õpilane on iga osaleja, kes progeklubis aktiivselt õpib ja programmeerimisega tegutseb.
+    2.1.2 - Õpilane on iga osaleja, kes progeklubis aktiivselt õpib ja programmeerimisega tegutseb.
 
 # 3. Õpe
 
@@ -54,13 +54,13 @@
 
 6.1 - Üldine suhtlus
 
-6.1.1 - Suhtlus toimub üldiselt läbi Discordi, mille jaoks on loodud eraldi server.
+    6.1.1 - Suhtlus toimub üldiselt läbi Discordi, mille jaoks on loodud eraldi server.
 
-6.1.2 - Tähtsam ja väline suhtlus toimub tavajuhul läbi kooli meili.
+    6.1.2 - Tähtsam ja väline suhtlus toimub tavajuhul läbi kooli meili.
 
 6.2 - Suhtlus koosolekul
 
-6.2.1 - Koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks
+    6.2.1 - Koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks
 
 # 7. Huvilised
 
