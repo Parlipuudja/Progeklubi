@@ -23,7 +23,7 @@
     1. Esmalt leiab õpilane koosolekul aimduse, mida ta soovib järgmisena teha või õppida. 
     2. Seejärel õpilane, soovi korral koos teiste õpilastega, määratleb projekti, mida ta sooviks tehtud saada. 
     3. Projekti tegemise käigus õpilane (eeldatavasti) mõistab, mis on tema puuduolevad teoreetilised arusaamad, et praktilist tööd tehtud saada.
-        > Nii teoreetiliselt kui praktiliselt korraga õppides omaenda valitud eesmärgi nimel õpibki õpilane eeldatavasti kõige tõhusamalt ja endale meeldivalt.
+    - Nii teoreetiliselt kui praktiliselt korraga õppides, omaenda valitud eesmärgi nimel, õpibki õpilane meie arvates kõige tõhusamalt ja endale meeldivalt.
 
 3.3 - Klubis saab projekti kallal töötada üksi, kahekesi või mitmekesi - eelistatuim on töötada kahekesi.
 
@@ -60,7 +60,7 @@
 
 6.2 - Suhtlus koosolekul
 
-    6.2.1 - Koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks
+    6.2.1 - Koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks 
 
 # 7. Huvilised
 
