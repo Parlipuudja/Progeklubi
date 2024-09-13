@@ -2,9 +2,7 @@
 
 1.1 - Progeklubi ehk programmeerimisklubi on GAGis toimub klubi, mille eesmärgiks on tõhusalt kokku tuua ja arendada noori Gustav Adolfi Gümnaasiumis, kes huvituvad programmeerimisest ja sellega seotud aladest.
 
-1.2 - Progeklubi peamised koosolekud toimuvad iganädalaselt, ette määratud klassis ja ajal.
-
-    1. Hetkel klassis 304 ja reedeti kell 14.10, kestes 40 minutit.
+1.2 - Progeklubi peamised koosolekud toimuvad iganädalaselt, ette määratud klassis ja ajal. Hetkel klassis 304 ja reedeti kell 14.10, kestes 40 minutit.
 
 # 2. Korraldus
 
@@ -52,17 +50,12 @@
 
 # 6. Suhtlus
 
-6.1 - Üldine suhtlus
+6.1 - Üldine suhtlus toimub üldiselt läbi Discordi, mille jaoks on loodud eraldi server. Tähtsam ja väline suhtlus toimub tavajuhul läbi kooli meili.
 
-    6.1.1 - Suhtlus toimub üldiselt läbi Discordi, mille jaoks on loodud eraldi server.
-
-    6.1.2 - Tähtsam ja väline suhtlus toimub tavajuhul läbi kooli meili.
-
-6.2 - Suhtlus koosolekul
-
-    6.2.1 - Koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks 
+6.2 - Suhtlus koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks 
 
 # 7. Huvilised
 
 7.1 - Progeklubis on muidugi hea, kui leidub uusi inimesi, kes klubi tegevustest on huvitatud ja vahest isegi sooviks siia liituda.
-7.2 - Progeklubiga liitumiseks on vaid mõned eeldused - huvi programmeerimise vastu ja soov lüüa kaasa meie (üsnagi vabavormilises) tegevuses, olgu see siis kohapeal või kaugelt.  
+
+7.2 - Progeklubiga liitumiseks on vaid mõned eeldused - huvi programmeerimise vastu ja soov lüüa kaasa meie (üsnagi vabavormilises) tegevuses, olgu see siis kohapeal või kaugelt.
