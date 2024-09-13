@@ -57,4 +57,5 @@
 # 7. Huvilised
 
 7.1 - Progeklubis on muidugi hea, kui leidub uusi inimesi, kes klubi tegevustest on huvitatud ja vahest isegi sooviks siia liituda.
-7.2 - Progeklubiga liitumiseks on vaid mõned eeldused - huvi programmeerimise vastu ja soov lüüa kaasa meie (üsnagi vabavormilises) tegevuses, olgu see siis kohapeal või kaugelt.  
+
+7.2 - Progeklubiga liitumiseks on vaid mõned eeldused - huvi programmeerimise vastu ja soov lüüa kaasa meie (üsnagi vabavormilises) tegevuses, olgu see siis kohapeal või kaugelt.
