@@ -52,15 +52,9 @@
 
 # 6. Suhtlus
 
-6.1 - Üldine suhtlus
+6.1 - Üldine suhtlus toimub üldiselt läbi Discordi, mille jaoks on loodud eraldi server. Tähtsam ja väline suhtlus toimub tavajuhul läbi kooli meili.
 
-    6.1.1 - Suhtlus toimub üldiselt läbi Discordi, mille jaoks on loodud eraldi server.
-
-    6.1.2 - Tähtsam ja väline suhtlus toimub tavajuhul läbi kooli meili.
-
-6.2 - Suhtlus koosolekul
-
-    6.2.1 - Koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks 
+6.2 - Suhtlus koosolekul toimub suhtlus peamiselt kohapeal, veel lisaks on võimalik kasutada Google Meeti või Discordi kaugsuhtluseks 
 
 # 7. Huvilised
 
