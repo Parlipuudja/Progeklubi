@@ -1,0 +1,3 @@
+[submodule "Liikmed/Hendrik Pärli/ParliGPT"]
+	path = Liikmed/Hendrik Pärli/ParliGPT
+	url = https://github.com/Parlipuudja/nextjs-chat.git
